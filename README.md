@@ -1,4 +1,4 @@
-<div align="center">Hey, I'm Muhammad Usama 👋</div>
+# <div align="center">Hey, I'm Muhammad Usama 👋</div>
 
 <div align="center">
 
@@ -32,70 +32,67 @@ I'm a mobile developer focused on shipping features that users love. I build **c
 
 ---
 
-## 🏆 Featured Projects
+🏆 Featured Projects
+E-Commerce App (FYP) ⭐
 
-### **[E-Commerce App (FYP)](https://github.com/Usama4742/E_Commerece-App---FYP)** ⭐
-*Full-stack mobile shopping platform • Final Year Project*
+Full-stack mobile shopping platform • Final Year Project
 
-- **Tech Stack:** Flutter • Dart • Firebase (Firestore, Auth) • Provider pattern
-- **Key Features:** User authentication, product catalog, shopping cart, order management, order tracking
+Tech Stack: Flutter • Dart • Firebase (Firestore, Auth) • Provider pattern
+Key Features: User authentication, product catalog, shopping cart, order management, order tracking
+ZenMart – Multi-Role E-Commerce App ⭐
 
-### **[ZenMart – Multi-Role E-Commerce App](https://github.com/Usama4742/ZEN_MART--A-multi-role-E-commerce-Flutter-App)** ⭐
-*Multi-vendor e-commerce ecosystem inspired by Amazon, Daraz & Foodpanda*
+Multi-vendor e-commerce ecosystem inspired by Amazon, Daraz & Foodpanda
 
-- **Tech Stack:** Flutter • Dart • Firebase
-- **Key Features:** Unified auth with role-based access for Super Admin, Vendor, Customer, and Rider, each with dedicated dashboards
+Tech Stack: Flutter • Dart • Firebase
+Key Features: Unified auth with role-based access for Super Admin, Vendor, Customer, and Rider, each with dedicated dashboards
+DigiKhata Clone
 
-### **[DigiKhata Clone](https://github.com/Usama4742/Digikhata_Clone-)**
-*Digital business management app*
+Digital business management app
 
-- **Tech Stack:** Flutter • Dart • Firebase
-- **Key Features:** Secure email authentication, PIN-based login, profile management, image/document uploads, business dashboard
+Tech Stack: Flutter • Dart • Firebase
+Key Features: Secure email authentication, PIN-based login, profile management, image/document uploads, business dashboard
+Real-Time Chat App
 
-### **[Real-Time Chat App](https://github.com/Usama4742/chat_app)**
-*Firebase-powered real-time messaging app*
+Firebase-powered real-time messaging app
 
-- **Tech Stack:** Flutter • Dart • Firebase Auth • Cloud Firestore
-- **Key Features:** Account creation, user discovery, private conversations, real-time messaging, timestamps, chat management
+Tech Stack: Flutter • Dart • Firebase Auth • Cloud Firestore
+Key Features: Account creation, user discovery, private conversations, real-time messaging, timestamps, chat management
+Invoice Generator App
 
-### **[Invoice Generator App](https://github.com/Usama4742/Flutter-Innovoice-Generator-App)**
-*Create, manage, and export professional invoices*
+Create, manage, and export professional invoices
 
-- **Tech Stack:** Flutter • Dart • Local storage • PDF generation
-- **Key Features:** Form handling, navigation, CRUD operations, PDF export, clean Material Design UI
+Tech Stack: Flutter • Dart • Local storage • PDF generation
+Key Features: Form handling, navigation, CRUD operations, PDF export, clean Material Design UI
+Coffee Lover App
 
-### **[Coffee Lover App](https://github.com/Usama4742/Coffe-Lover)**
-*Modern coffee ordering mobile app with smooth UX*
+Modern coffee ordering mobile app with smooth UX
 
-- **Tech Stack:** Flutter • Dart • Provider • Responsive UI
-- **Key Features:** Menu browsing, smooth animations, clean design, order placement
+Tech Stack: Flutter • Dart • Provider • Responsive UI
+Key Features: Menu browsing, smooth animations, clean design, order placement
+Food Delivery App
 
-### **[Food Delivery App](https://github.com/Usama4742/food_lover)**
-*Multi-feature food ordering platform (Zomato-inspired)*
+Multi-feature food ordering platform (Zomato-inspired)
 
-- **Tech Stack:** Flutter • Dart • Firebase • Real-time features
-- **Key Features:** Restaurant browsing, menu search, real-time order tracking, user authentication
+Tech Stack: Flutter • Dart • Firebase • Real-time features
+Key Features: Restaurant browsing, menu search, real-time order tracking, user authentication
+Meal Recipe App
 
-### **[Meal Recipe App](https://github.com/Usama4742/meal)**
-*Recipe discovery app with favorites & filtering*
+Recipe discovery app with favorites & filtering
 
-- **Tech Stack:** Flutter • Dart
-- **Key Features:** Category browsing, detailed recipes with ingredients & instructions, favorites, dietary filters (vegan, gluten-free, etc.)
+Tech Stack: Flutter • Dart
+Key Features: Category browsing, detailed recipes with ingredients & instructions, favorites, dietary filters (vegan, gluten-free, etc.)
+Shopping List App
 
-### **[Shopping List App](https://github.com/Usama4742/shoping_list)**
-*Simple, intuitive shopping list manager*
+Simple, intuitive shopping list manager
 
-- **Tech Stack:** Flutter • Dart
-- **Key Features:** Add/edit items, check off purchases, local persistence
+Tech Stack: Flutter • Dart
+Key Features: Add/edit items, check off purchases, local persistence
+Expense Tracker
 
-### **[Expense Tracker](https://github.com/Usama4742/expense_tracker)**
-*Personal finance tracker • Daily use*
+Personal finance tracker • Daily use
 
-- **Tech Stack:** Flutter • Dart • Local data persistence
-- **Key Features:** Daily/weekly/monthly tracking, expense categorization, analytics
-
----
-
+Tech Stack: Flutter • Dart • Local data persistence
+Key Features: Daily/weekly/monthly tracking, expense categorization, analytics
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -112,19 +109,19 @@ I'm a mobile developer focused on shipping features that users love. I build **c
 
 ## 🎓 What I'm Currently Working On
 
-🔨 **Building:** Advanced Flutter architecture patterns for scalable applications
-📚 **Learning:** Advanced state management, Firebase optimization, app performance
+🔨 **Building:** Advanced Flutter architecture patterns for scalable applications  
+📚 **Learning:** Advanced state management, Firebase optimization, app performance  
 🤝 **Open to:** Remote contracts, freelance gigs, full-time roles (remote or Pakistan-based)
 
 ---
 
 ## 💡 Why Work With Me?
 
-✅ **Proven delivery:** 10+ completed projects, from concept to production
-✅ **Clean code matters:** Follows SOLID principles, proper architecture patterns
-✅ **Firebase expert:** Authentication, Firestore, real-time features, cloud functions
-✅ **User-focused:** Builds apps that look good AND work well
-✅ **Responsive & reliable:** Takes feedback seriously, iterates quickly
+✅ **Proven delivery:** 9+ completed projects, from concept to production  
+✅ **Clean code matters:** Follows SOLID principles, proper architecture patterns  
+✅ **Firebase expert:** Authentication, Firestore, real-time features, cloud functions  
+✅ **User-focused:** Builds apps that look good AND work well  
+✅ **Responsive & reliable:** Takes feedback seriously, iterates quickly  
 
 ---
 
@@ -134,8 +131,8 @@ I'm a mobile developer focused on shipping features that users love. I build **c
 
 <div align="center">
 
-[📧 Email](mailto:your.email@gmail.com) •
-[💼 LinkedIn](https://linkedin.com/in/usama4742) •
+[📧 Email](mailto:your.email@gmail.com) • 
+[💼 LinkedIn](https://linkedin.com/in/usama4742) • 
 [🌐 Portfolio](https://your-portfolio-link.com)
 
 </div>
@@ -146,6 +143,8 @@ I'm a mobile developer focused on shipping features that users love. I build **c
 
 **Let's collaborate! 🚀**
 
-*Last Updated: September 2026 | Always evolving* ✨
+*Last Updated: May 2026 | Always evolving* ✨
 
 </div>
+
+THIS is the readme.md file AND GITHUB LINKS UPDATE THIS FILE USING MORE PROJCTS
