@@ -32,67 +32,30 @@ I'm a mobile developer focused on shipping features that users love. I build **c
 
 ---
 
-🏆 Featured Projects
-E-Commerce App (FYP) ⭐
+## 🏆 Featured Projects
 
-Full-stack mobile shopping platform • Final Year Project
+### **[E-Commerce App (FYP)](https://github.com/Usama4742/E_Commerece-App---FYP)** ⭐
+*Full-stack mobile shopping platform • Final Year Project*
 
-Tech Stack: Flutter • Dart • Firebase (Firestore, Auth) • Provider pattern
-Key Features: User authentication, product catalog, shopping cart, order management, order tracking
-ZenMart – Multi-Role E-Commerce App ⭐
+**Tech Stack:** Flutter • Dart • Firebase (Firestore, Auth) • Provider pattern
+**Key Features:** User authentication, product catalog, shopping cart, order management, order tracking
+### **[Coffee Lover App](https://github.com/Usama4742/Coffe-Lover)**
+*Modern coffee ordering mobile app with smooth UX*
 
-Multi-vendor e-commerce ecosystem inspired by Amazon, Daraz & Foodpanda
+**Tech Stack:** Flutter • Dart • Provider • Responsive UI
+**Key Features:** Menu browsing, smooth animations, clean design, order placement
+### **[Food Delivery App](https://github.com/Usama4742/food_lover)**
+*Multi-feature food ordering platform (Zomato-inspired)*
 
-Tech Stack: Flutter • Dart • Firebase
-Key Features: Unified auth with role-based access for Super Admin, Vendor, Customer, and Rider, each with dedicated dashboards
-DigiKhata Clone
+**Tech Stack:** Flutter • Dart • Firebase • Real-time features
+**Key Features:** Restaurant browsing, menu search, real-time order tracking, user authentication
+### **[Expense Tracker](https://github.com/Usama4742/expense_tracker)**
+*Personal finance tracker • Daily use*
 
-Digital business management app
+**Tech Stack:** Flutter • Dart • Local data persistence
+**Key Features:** Daily/weekly/monthly tracking, expense categorization, analytics
+---
 
-Tech Stack: Flutter • Dart • Firebase
-Key Features: Secure email authentication, PIN-based login, profile management, image/document uploads, business dashboard
-Real-Time Chat App
-
-Firebase-powered real-time messaging app
-
-Tech Stack: Flutter • Dart • Firebase Auth • Cloud Firestore
-Key Features: Account creation, user discovery, private conversations, real-time messaging, timestamps, chat management
-Invoice Generator App
-
-Create, manage, and export professional invoices
-
-Tech Stack: Flutter • Dart • Local storage • PDF generation
-Key Features: Form handling, navigation, CRUD operations, PDF export, clean Material Design UI
-Coffee Lover App
-
-Modern coffee ordering mobile app with smooth UX
-
-Tech Stack: Flutter • Dart • Provider • Responsive UI
-Key Features: Menu browsing, smooth animations, clean design, order placement
-Food Delivery App
-
-Multi-feature food ordering platform (Zomato-inspired)
-
-Tech Stack: Flutter • Dart • Firebase • Real-time features
-Key Features: Restaurant browsing, menu search, real-time order tracking, user authentication
-Meal Recipe App
-
-Recipe discovery app with favorites & filtering
-
-Tech Stack: Flutter • Dart
-Key Features: Category browsing, detailed recipes with ingredients & instructions, favorites, dietary filters (vegan, gluten-free, etc.)
-Shopping List App
-
-Simple, intuitive shopping list manager
-
-Tech Stack: Flutter • Dart
-Key Features: Add/edit items, check off purchases, local persistence
-Expense Tracker
-
-Personal finance tracker • Daily use
-
-Tech Stack: Flutter • Dart • Local data persistence
-Key Features: Daily/weekly/monthly tracking, expense categorization, analytics
 ## 📊 GitHub Statistics
 
 <div align="center">
